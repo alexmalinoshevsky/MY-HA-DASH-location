@@ -5,8 +5,6 @@
 [![buymecoffee][buy_me_coffee_shield]][buy_me_coffee_me]
 <!-- anashost_support_badges_end -->
 
-Here's a [link](https://github.com/Anashost/MY-HA-DASH-V1) to the old version of this dashboard.
-
 <!-- 
 ```diff
 - text in red
